@@ -1,4 +1,4 @@
-update_fastlane
+#update_fastlane
 
 default_platform :ios
 
@@ -14,6 +14,7 @@ platform :ios do
 
   desc "Runs all the tests"
   lane :test do
+    puts "Hello demo!"
     scan
   end
 
