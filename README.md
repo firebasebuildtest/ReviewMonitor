@@ -16,3 +16,4 @@ The app is still available on TestFlight for testing. [Download](https://itc-onb
 
 # Contributing
 Want to see something implemented in teh app? We are always looking for some contributors who can help with some more features. Create an [issue](https://github.com/RishabhTayal/ReviewMonitor/issues/new) or [PR](https://github.com/RishabhTayal/ReviewMonitor/compare) if you are interested. Want to get involved in discussions? Join our [Slack channel](https://itc-manager-slack-invite.herokuapp.com)
+
